@@ -41,8 +41,8 @@ To get a local copy of this project up and running, follow these simple steps.
 
 1. Download all project files into a single folder on your computer: `GUI.py` `solver.py`.
 
-2. Install dependencies:
-     ```bash
+2. Install dependencies (pygame):
+```bash
   pip install pygame 
   ```
 
