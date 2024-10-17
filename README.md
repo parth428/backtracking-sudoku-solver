@@ -67,6 +67,7 @@ The project relies on the following library:
 Make sure to install this dependency using `pip install pygame` if it is not included in your Python distribution.
 
 ## GUI Example
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/eef21af7-e350-44bd-b367-f16f052f1d09">
 
 
 ## Future Directions
