@@ -12,7 +12,6 @@ Welcome to the Sudoku Solver and Player project! This repository contains a simp
 - [GUI Example](#GUI-example)
 - [Future Directions](#future-directions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
