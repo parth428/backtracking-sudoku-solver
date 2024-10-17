@@ -9,6 +9,7 @@ Welcome to the Sudoku Solver and Player project! This repository contains a simp
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [GUI Example](#GUI-example)
 - [Future Directions](#future-directions)
 - [Contributing](#contributing)
 - [License](#license)
@@ -41,7 +42,7 @@ Ensure you have Python installed. You can download it from [python.org](https://
 
 ### Installation
 
-1. Download all project files into a single folder on your computer: 'GUI.py' 'solver.py'.
+1. Download all project files into a single folder on your computer: `GUI.py` `solver.py`.
 
 2. Install dependencies:
    `pip install pygame`
@@ -65,21 +66,17 @@ The project relies on the following library:
 
 Make sure to install this dependency using `pip install pygame` if it is not included in your Python distribution.
 
+## GUI Example
+
+
 ## Future Directions
 
 - **Random Board Generation**: The board will be automatically randomized, allowing for a new challenge each time the program is launched.
+AND/OR
 - **User-Generated Board**: The GUI will be updated so that users can input their own custom board, which the program will verify and solve if desired.
 
 ## Contributing
 
 Contributions are welcome! If you'd like to add a feature, fix a bug, or make improvements, please fork the repository and submit a pull request.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
-3. Commit your Changes (`git commit -m 'Add some feature'`)
-4. Push to the Branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
