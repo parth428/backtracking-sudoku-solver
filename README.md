@@ -1,4 +1,4 @@
-# Sudoku Solver and Player
+# Sudoku Solver and Player with GUI
 
 Welcome to the Sudoku Solver and Player project! This repository contains a simple GUI-based Sudoku game where users can either play by filling in the board and receiving feedback on their answers or use an automatic solver to complete the board instantly. The solver uses backtracking and recursion to efficiently find a solution.
 
@@ -41,13 +41,9 @@ Ensure you have Python installed. You can download it from [python.org](https://
 
 ### Installation
 
-1. Clone the repository:
-   `git clone https://github.com/yourusername/sudoku-solver-and-player.git`
+1. Download all project files into a single folder on your computer.
 
-2. Navigate to the project directory:
-   `cd sudoku-solver-and-player`
-
-3. Install dependencies:
+2. Install dependencies:
    `pip install pygame`
 
 ## Usage
