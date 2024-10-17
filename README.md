@@ -36,16 +36,15 @@ Welcome to the Sudoku Solver and Player project! This repository contains a simp
 
 To get a local copy of this project up and running, follow these simple steps.
 
-### Prerequisites
-
-Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
 
 ### Installation
 
 1. Download all project files into a single folder on your computer: `GUI.py` `solver.py`.
 
 2. Install dependencies:
-   `pip install pygame`
+     ```bash
+  pip install pygame 
+  ```
 
 ## Usage
 
