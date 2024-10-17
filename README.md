@@ -41,7 +41,7 @@ Ensure you have Python installed. You can download it from [python.org](https://
 
 ### Installation
 
-1. Download all project files into a single folder on your computer.
+1. Download all project files into a single folder on your computer: 'GUI.py' 'solver.py'.
 
 2. Install dependencies:
    `pip install pygame`
