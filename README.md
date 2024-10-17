@@ -70,6 +70,7 @@ This will output a completed board if a solution exists, displaying it in the GU
 ## Future Directions
 
 - **Random Board Generation**: The board will be automatically randomized, allowing for a new challenge each time the program is launched.
+  
 AND/OR
 - **User-Generated Board**: The GUI will be updated so that users can input their own custom board, which the program will verify and solve if desired.
 
