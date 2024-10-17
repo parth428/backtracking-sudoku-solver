@@ -7,8 +7,8 @@ Welcome to the Sudoku Solver and Player project! This repository contains a simp
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Usage](#usage)
 - [GUI Example](#GUI-example)
 - [Future Directions](#future-directions)
 - [Contributing](#contributing)
@@ -36,6 +36,11 @@ Welcome to the Sudoku Solver and Player project! This repository contains a simp
 
 To get a local copy of this project up and running, follow these simple steps.
 
+## Dependencies
+
+The project relies on the following library:
+
+- **pygame**: `pygame` is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries to create engaging applications, making it ideal for creating interactive GUIs like the Sudoku game interface. For more information, refer to the [official `pygame` documentation](https://www.pygame.org/docs/).
 
 ### Installation
 
@@ -57,13 +62,6 @@ Run the `GUI.py` file to start the Sudoku game interface:
   
 This will output a completed board if a solution exists, displaying it in the GUI for easy viewing.
 
-## Dependencies
-
-The project relies on the following library:
-
-- **pygame**: `pygame` is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries to create engaging applications, making it ideal for creating interactive GUIs like the Sudoku game interface. For more information, refer to the [official `pygame` documentation](https://www.pygame.org/docs/).
-
-Make sure to install this dependency using `pip install pygame` if it is not included in your Python distribution.
 
 ## GUI Example
 <img src="https://github.com/user-attachments/assets/eef21af7-e350-44bd-b367-f16f052f1d09" width="300" alt="image">
